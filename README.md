@@ -3,7 +3,8 @@
 
 
 ## About me
-<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=ashishbeck&show_icons=true&theme=tokyonight" />
+<img width="55%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishbeck&show_icons=true&theme=tokyonight" />
+<img width="55%" align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbeck&theme=tokyonight" />
 
 - 🔭 I’m currently working on some FOSS in my free time
 
@@ -37,6 +38,6 @@ alt="email" height="30"/></a>
 <a href="https://stackoverflow.com/users/7337717/ashishb" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" height="30"/></a>
 <!-- <a href = 'https://medium.com/@ashishbeck'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
 <!-- <a href = 'http://ashishbeck.dev/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-
+<!-- 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishbeck&theme=tokyonight) | ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbeck&layout=compact&theme=tokyonight) |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -->
